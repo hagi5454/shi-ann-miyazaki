@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hagi5454.github.io/shi-ann-miyazaki/sitemap.xml
